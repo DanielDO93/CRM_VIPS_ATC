@@ -1,0 +1,104 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Login.master.vb" Inherits="VIPS.Login" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>CCS</title>
+    <meta name="description" content="website description" />
+    <meta name="keywords" content="website keywords, website keywords" />
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <script src="JS/jquery-1.6.3.js"></script>
+    <script src="JS/modernizr-1.5.min.js"></script>
+    <script src="JS/toastr.min.js"></script>
+    <script src="JS/jquery.easing-sooper.js"></script>
+    <script src="JS/jquery.sooperfish.js"></script>
+    <script type="text/javascript">$(document).ready(function () { $('ul.sf-menu').sooperfish(); });</script>
+    <script src="JS/Options.js"></script>
+    <script src="../JS/jquery.alerts.mod.js"></script>
+
+    <link rel="stylesheet" type="text/css" id="theme" href="../css/style.css" />
+    <link href="../CSS/toastr.css" rel="stylesheet" />
+    <link href="../CSS/jquery.alerts.css" rel="stylesheet" />
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style type="text/css">
+       
+    </style>
+
+</head>
+<body>
+
+    <form id="form1" runat="server">
+
+
+        <div id="”wrapper”">
+
+
+            <div id="main">
+
+                <header>
+
+
+                    <div id="logo">
+                        <div id="logo_text">
+
+                            <br />
+                            <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/ccs_logo.png" Height="66px" Width="127px" ImageAlign="Middle" />
+
+
+                            <h2>CRM Vips</h2>
+
+
+
+                        </div>
+
+                        <div class="vips">
+                            <asp:Image ID="Image2" runat="server" ImageUrl="~/Images/vips.svg" Height="80px" Width="143px" ImageAlign="Middle" /></div>
+
+
+                    </div>
+
+
+
+
+
+                    <nav>
+                        <ul class="sf-menu" id="nav">
+                            <li class="current">
+                                <asp:LoginStatus ID="LoginStatus1" runat="server" LoginText="Iniciar Sesión" LogoutText="Cerrar Sesión" />
+                            </li>
+                            <li class="current"><a href="Recuperar_Password.aspx">Recuperar Contraseña</a></li>
+
+                        </ul>
+                    </nav>
+                </header>
+
+
+
+
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+
+
+
+
+
+            </div>
+        </div>
+
+    </form>
+
+</body>
+
+
+
+
+</html>
+

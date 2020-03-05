@@ -1,0 +1,127 @@
+<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Inbound.Master.vb" Inherits="VIPS.MaestraInbound" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head runat="server">
+
+    <title>CCS</title>
+
+
+    <script src="../JS/jquery-1.6.3.js"></script>
+    <script src="../JS/modernizr-1.5.min.js"></script>
+    <script src="../JS/toastr.min.js"></script>
+    <script type="text/javascript" src="../JS/jquery.easing-sooper.js"></script>
+    <script type="text/javascript" src="../JS/jquery.sooperfish.js"></script>
+    <script type="text/javascript">$(document).ready(function () { $('ul.sf-menu').sooperfish(); });</script>
+    <script src="../JS/jquery.alerts.mod.js"></script>
+    <script src="../JS/jquery-1.7.min.js"></script>
+    <script src="../JS/jquery-impromptu.min.js"></script>
+
+    <script src="../JS/Options.js"></script>
+
+    <script type="text/javascript">
+        $(window).bind("load", function () {
+            var footer = $("#footer");
+            var pos = footer.position();
+            var height = $(window).height();
+            height = height - pos.top;
+            height = height - footer.height();
+            if (height > 0) {
+                footer.css({
+                    'margin-top': height + 'px'
+                });
+            }
+        });
+
+        function msgclose(a, b) {
+            $.prompt(a, {
+                title: b,
+                buttons: { "OK": true },
+                submit: function ok() { window.open('', '_parent', ''); window.close(); },
+            });
+        }
+
+        function alv() {
+            window.open('', '_parent', ''); window.close();
+
+        }
+
+
+    </script>
+
+    <link rel="stylesheet" type="text/css" id="theme" href="../css/style.css" />
+    <link href="../CSS/toastr.css" rel="stylesheet" />
+    <link href="../CSS/jquery.alerts.css" rel="stylesheet" />
+    <link href="../CSS/jquery-impromptu.min.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+
+    <style type="text/css">
+        .auto-style1 {
+            left: 0;
+            top: 5px;
+            width: 302px;
+            height: 104px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <form id="form1" runat="server" autocomplete="off">
+        <div id="main">
+            <header>
+                <div id="logo">
+                    <div id="logo_text" class="auto-style1">
+
+                        <br />
+
+                        <asp:Image ID="Image1" runat="server" ImageUrl="../images/ccs_logo.png" Height="66px" Width="127px" ImageAlign="Middle" />
+
+                        <h2>CRM Vips</h2>
+
+                    </div>
+                    <div class="vips">
+                        <asp:Image ID="Image2" runat="server" ImageUrl="~/Images/vips.svg" Height="80px" Width="143px" ImageAlign="Middle" />
+                    </div>
+                </div>
+                <nav>
+                    <ul class="sf-menu" id="nav">
+                  
+                         <li class="current"><a href="#modalBuscador">Clientes</a></li>
+       
+
+                    </ul>
+                </nav>
+            </header>
+
+        </div>
+
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <div id="footer">
+            <footer>
+                <p>
+                    <a href=".././CRM/Default.aspx">Inicio</a> | <a href="#modalTiendas">Tiendas</a>  | <a href="#">Reportes</a> | <a href=".././CRM/Password.aspx">Cambio de Contraseña</a> |
+                    <asp:LoginStatus ID="LoginStatus2" runat="server" />
+                </p>
+                <p>Isaac Contreras 2016 &copy; </p>
+            </footer>
+        </div>
+
+
+    </form>
+
+
+</body>
+
+</html>

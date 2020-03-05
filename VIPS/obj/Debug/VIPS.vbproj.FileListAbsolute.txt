@@ -1,0 +1,111 @@
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\CRM\Interaccion.aspx
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\Inbound\Tipificacion.aspx
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\CRM\Interaccion.aspx.designer.vb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\CRM\Interaccion.aspx.vb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\Inbound\Tipificacion.aspx.designer.vb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\Inbound\Tipificacion.aspx.vb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\VIPS.dll.config
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\VIPS.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\VIPS.pdb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\VIPS.xml
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\Newtonsoft.Json.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\Newtonsoft.Json.xml
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\obj\Debug\VIPS.Resources.resources
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\obj\Debug\VIPS.vbproj.GenerateResource.Cache
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\obj\Debug\VIPS.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\obj\Debug\VIPS.xml
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\obj\Debug\VIPS.pdb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\bin\AjaxMin.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS\VIPS\obj\Debug\VIPS.vbprojResolveAssemblyReference.cache
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\CRM\Interaccion.aspx
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Inbound\Tipificacion.aspx
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\CRM\Interaccion.aspx.designer.vb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\CRM\Interaccion.aspx.vb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Inbound\Tipificacion.aspx.designer.vb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Inbound\Tipificacion.aspx.vb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\VIPS.dll.config
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\VIPS.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\VIPS.pdb
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\VIPS.xml
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Newtonsoft.Json.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\AjaxMin.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Newtonsoft.Json.xml
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.vbprojResolveAssemblyReference.cache
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.Resources.resources
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.vbproj.GenerateResource.Cache
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.dll
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.xml
+C:\Users\Isaac Contreras\OneDrive\Proyectos\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.pdb
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Inbound\Tipificacion.aspx
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Inbound\Tipificacion.aspx.designer.vb
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Inbound\Tipificacion.aspx.vb
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\CRM\Interaccion.aspx
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\CRM\Interaccion.aspx.designer.vb
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\CRM\Interaccion.aspx.vb
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\VIPS.dll.config
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\VIPS.dll
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\VIPS.pdb
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\VIPS.xml
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Newtonsoft.Json.dll
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\AjaxMin.dll
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\bin\Newtonsoft.Json.xml
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.vbprojAssemblyReference.cache
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.Resources.resources
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.vbproj.GenerateResource.cache
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.vbproj.CoreCompileInputs.cache
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.vbproj.CopyComplete
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.dll
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.xml
+C:\Users\Isaac Contreras\iCloudDrive\Documents\Proyectos\ASP.NET\Proyectos Completos\CRM VIPS ATC\VIPS\obj\Debug\VIPS.pdb
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\CRM\Interaccion.aspx
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\Inbound\Tipificacion.aspx
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\CRM\Interaccion.aspx.designer.vb
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\Inbound\Tipificacion.aspx.designer.vb
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\Inbound\Tipificacion.aspx.vb
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\CRM\Interaccion.aspx.vb
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\VIPS.dll.config
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\VIPS.dll
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\VIPS.pdb
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\VIPS.xml
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\Newtonsoft.Json.dll
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\AjaxMin.dll
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\Newtonsoft.Json.xml
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\obj\Debug\VIPS.vbprojAssemblyReference.cache
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\obj\Debug\VIPS.Resources.resources
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\obj\Debug\VIPS.vbproj.GenerateResource.cache
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\obj\Debug\VIPS.vbproj.CoreCompileInputs.cache
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\obj\Debug\VIPS.vbproj.CopyComplete
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\obj\Debug\VIPS.dll
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\obj\Debug\VIPS.xml
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\obj\Debug\VIPS.pdb
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\RICARDO GM\Documents\CRM VIPS ATC\VIPS\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\CRM\Interaccion.aspx
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\Inbound\Tipificacion.aspx
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\CRM\Interaccion.aspx.designer.vb
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\CRM\Interaccion.aspx.vb
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\Inbound\Tipificacion.aspx.designer.vb
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\Inbound\Tipificacion.aspx.vb
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\VIPS.dll.config
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\VIPS.dll
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\VIPS.pdb
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\VIPS.xml
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\Newtonsoft.Json.dll
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\AjaxMin.dll
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\bin\Newtonsoft.Json.xml
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\obj\Debug\VIPS.vbprojAssemblyReference.cache
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\obj\Debug\VIPS.Resources.resources
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\obj\Debug\VIPS.vbproj.GenerateResource.cache
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\obj\Debug\VIPS.vbproj.CoreCompileInputs.cache
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\obj\Debug\VIPS.vbproj.CopyComplete
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\obj\Debug\VIPS.dll
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\obj\Debug\VIPS.xml
+C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS_ATC\VIPS\obj\Debug\VIPS.pdb

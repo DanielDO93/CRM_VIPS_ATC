@@ -1,0 +1,999 @@
+@font-face { font-family: Yanone Kaffeesatz; src: url('../fonts/YanoneKaffeesatz-Regular.ttf'); } 
+
+html { 
+  height: 100%;
+
+}
+
+* { 
+  margin: 0; 
+  padding: 0;}
+
+/* tell the browser to render HTML 5 elements as block */
+article, aside, figure, footer, header, hgroup, nav, section { 
+  display:block;}
+
+body { 
+  font: normal .80em arial, sans-serif;
+  background: #F8F7F0;
+  color: #7A7A68;
+}
+
+body table{
+  font: normal 15px 'Yanone Kaffeesatz';
+  background: transparent;
+  color: #47433F;
+  border: 1px solid #FFF;
+}
+
+p { 
+  padding: 0 0 20px 0;
+  line-height: 1.7em;
+}
+
+img { 
+  border: 0;
+}
+
+
+
+h1, h2, h3, h4, h5, h6 { 
+  color: #362C20;
+  letter-spacing: 0em;
+  padding: 0 0 5px 0;
+}
+
+h1, h2, h3 { 
+  font: normal 140% 'Yanone Kaffeesatz', arial;
+  margin: 0 0 15px 0;
+  padding: 15px 0 5px 0;
+  color: #362C20;
+  text-shadow: 1px 1px 1px #fff;
+}
+
+.Panel h2 { 
+  font-size:19px;
+  padding-top:10px;
+  padding-bottom:8px;
+  background-color: #C00327;
+  color:#FFFFFF;
+  text-align:center;
+  vertical-align:top;
+  line-height:1px;
+  width:100%;
+  height:5px;
+    border-radius: 6px 6px 0px 0px;
+  -moz-border-radius: 7px 7px 0px 0px;
+  -webkit-border: 7px 7px 0px 0px;
+}
+
+h3 { 
+  font-size: 140%;
+  padding: 5px 0 0 0;
+}
+
+h4, h6 { 
+  color: #C00327;
+  padding: 0 0 5px 0;
+  font: normal 110% arial;
+  text-transform: uppercase;
+}
+
+h5, h6 { 
+  color: #888;
+  font: normal 95% arial;
+  letter-spacing: normal;
+  padding: 0 0 15px 0;
+}
+
+a, a:hover { 
+  outline: none;
+  text-decoration: underline;
+  color: #C00327;
+}
+
+a:hover { 
+  text-decoration: none;
+}
+
+blockquote { 
+  margin: 20px 0; 
+  padding: 10px 20px 0 20px;
+  border: 1px solid #E5E5DB;
+  background: #FFF;
+}
+
+
+
+ul li { 
+  list-style-type: none;
+  line-height: 1.5em;
+}
+
+
+
+#main, #logo, nav, #site_
+, footer { 
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+header { 
+  background: #323534 url(../images/back.png) repeat-x;
+  height: 153px;
+}
+
+#logo { 
+  width: 990px;
+  position: relative;
+  height: 95px;
+  padding-top: 20px;
+  background: transparent;
+}
+
+#logo #logo_text { 
+  position: absolute ;  
+  top: 5px;
+  left: 0;
+     
+}
+
+
+.vips{
+
+    width:127px;
+    margin-left:85%;
+}
+
+
+#logo h1, #logo h2 { 
+  font-size: 360%;
+  border-bottom: 0;
+  text-transform: none;
+  margin: 0 0 0 15px;
+  text-shadow: none;
+  
+}
+
+#logo_text h1, #logo_text h1 a, #logo_text h1 a:hover { 
+  padding: 5px 0 0 0;
+  color: #FFF;
+  text-decoration: none;
+}
+
+#logo_text h1 a .logo_colour { 
+  color: #C00327;
+}
+
+#logo_text a:hover .logo_colour { 
+  color: #FFF;
+}
+
+#logo_text h2 { 
+  font-size: 125%;
+  padding: 0 0 0 0;
+  color: #A8AA94;
+}
+
+nav { 
+  width: 1000px;
+  height: 46px;
+} 
+
+#site_content { 
+
+  overflow: hidden;
+  margin: 20px auto 0 auto;
+  padding: 0 0 10px 175px;
+} 
+
+
+
+.content h1 { 
+  background: #eee;padding: 10px 15px;
+  font-size: 170%;
+  border: 1px solid #fff;
+  color: #063E4C;
+    border-radius: 7px 7px 0 0;
+  -moz-border-radius: 7px 7px 0 0;
+  -webkit-border: 7px 7px 0 0;
+}
+
+ .content h1 { 
+  text-align:center;
+  padding: 5px 15px 10px 15px;
+  color: #74706E;
+}
+
+ a.selected { 
+  color: #444;
+} 
+
+
+.content_item { 
+  padding: 15px 15px;
+}
+
+.content { 
+  text-align: center;
+  width: 1000px;
+  margin: 0 0 0 0;
+  padding-bottom:15px;
+  background: #fff;border-bottom: 1px solid #D4D4D4;
+  border: 1px solid #e5e5e5;
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;
+  float: left;
+}
+
+.content span{
+
+font: normal 15px 'Yanone Kaffeesatz';
+color:#47433F;
+
+}  
+
+
+.form_default {
+ clear:both;
+ overflow:hidden;
+ width:100%;
+ text-align:center;
+
+
+}
+
+.form_default ul{
+display:inline-block;
+margin: 0 0 10px -30px;
+  
+    
+}
+
+.content li{
+
+ float:left;
+width:130px;
+
+}
+
+
+.C1{
+background-image: url('../Images/0B.png');
+background-repeat:no-repeat;
+width:80px;
+height:80px;
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+float:left !important;
+margin:15px;
+margin-bottom:30px;
+}
+.C1Select{
+background-image: url('../Images/0A.png');
+background-repeat:no-repeat;
+width:80px;
+height:80px;
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+}
+
+.C2{
+background-image: url('../Images/1B.png');
+background-repeat:no-repeat;
+width:80px;
+height:80px;
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+float:left !important;
+margin:15px;
+margin-bottom:30px;
+}
+.C2Select{
+background-image: url('../Images/1A.png');
+background-repeat:no-repeat;
+width:80px;
+height:80px;
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+}
+
+.C3{
+background-image: url('../Images/2B.png');
+background-repeat:no-repeat;
+width:80px;
+height:80px;
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+float:left !important;
+margin:15px;
+margin-bottom:30px;
+}
+.C3Select{
+background-image: url('../Images/2A.png');
+background-repeat:no-repeat;
+width:80px;
+height:80px;
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+}
+
+.C4{
+background-image: url('../Images/3B.png');
+background-repeat:no-repeat;
+width:80px;
+height:80px;
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+float:left !important;
+margin:15px;
+margin-bottom:30px;
+}
+.C4Select{
+background-image: url('../Images/3A.png');
+background-repeat:no-repeat;
+width:80px;
+height:80px;
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+}
+
+.C5{
+background-image: url('../Images/4B.png');
+background-repeat:no-repeat;
+width:80px;
+height:80px;
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+float:left !important;
+margin:15px;
+margin-bottom:30px;
+}
+.C5Select{
+background-image: url('../Images/4A.png');
+background-repeat:no-repeat;
+width:80px;
+height:80px;
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+}
+
+
+
+
+.modal-contenido{
+   
+  background-color:white;
+  width:400px;
+  margin: 20% auto;
+  position: relative;
+   border-radius: 7px;
+  -moz-border-radius: 7px ;
+  -webkit-border: 7px;
+}
+
+.modal-contenido2{
+   
+  background-color:white;
+  width:600px;
+  margin: 20% auto;
+  position: relative;
+   border-radius: 7px;
+  -moz-border-radius: 7px ;
+  -webkit-border: 7px;
+
+}
+
+.modal{
+ 
+  background-color: rgba(0,0,0,.8);
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  opacity:0;
+  pointer-events:none;
+  transition: all 0.5s;
+}
+
+.modal-tabla{
+    overflow:auto !important;
+    width:380px;
+    margin:10px;
+
+}
+
+#miModal:target{
+    
+  opacity:1;
+  pointer-events:auto;
+}
+
+#modalQueja:target{
+    
+  opacity:1;
+  pointer-events:auto;
+}
+
+#modalTiendas:target{
+    
+  opacity:1;
+  pointer-events:auto;
+}
+
+
+#consultaTiendas:target{
+    
+  opacity:1;
+  pointer-events:auto;
+}
+
+#modalBuscador:target{
+    
+  opacity:1;
+  pointer-events:auto;
+}
+
+#VOLO:target{
+    
+  opacity:1;
+  pointer-events:auto;
+}
+
+#gMaps:target{
+    
+  opacity:1;
+  pointer-events:auto;
+}
+
+#Drive:target{
+    
+  opacity:1;
+  pointer-events:auto;
+}
+
+#modalError:target{
+    
+  opacity:1;
+  pointer-events:auto;
+}
+
+.search-table{
+    margin-left:50px;
+    overflow:auto;
+    width:500px;
+    height:60px;
+}
+
+.search-table th{
+   background-color:#C00327;
+    color:white;
+    text-align:center;
+
+}
+
+
+.search-table table{
+    width:100%;
+    border-color:#e5e5e5;
+}
+
+.quejas-abiertas{
+    overflow:auto;
+    margin-left:140px;
+    width:700px;
+}
+
+.quejas-abiertas table{
+    width:100%;
+}
+
+.quejas-abiertas th{
+   background-color:#C00327;
+    color:white;
+    text-align:center;
+}
+
+.quejas-abiertas tr{
+    height:15px !important;
+}
+
+
+
+
+   #map {
+       margin-left:255px;
+        height: 350px;
+        width: 500px;
+       }
+
+      #map2 {
+       margin-left:255px;
+        height: 350px;
+        width: 500px;
+       }
+
+
+.LoginBox{
+font: normal 16px 'Yanone Kaffeesatz';
+text-align:left;
+border-width:1px;
+border-style:solid;
+
+}
+
+
+
+.textbox {
+    height: 20px;
+    width:130px;
+    border: solid 1px #E5E5E5;
+    outline: 0;
+    font: normal 15px 'Yanone Kaffeesatz';
+    background: #FFF url('bg_form.png') left top repeat-x;
+    background: -webkit-gradient(linear, left top, left 25, from(#FFF), color-stop(4%, #EEE), to(#FFF));
+    background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);
+    box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    border-radius:4px;
+    -moz-border-radius: 4px;
+    -webkit-border: 4px;
+    color:#47433F;
+    text-align:center;
+}
+
+.textboxGreen {
+    height: 20px;
+    width:130px;
+    border: solid 1px #E5E5E5;
+    outline: 0;
+    font: normal 15px 'Yanone Kaffeesatz';
+    background: #63FF73;
+    box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    border-radius:4px;
+    -moz-border-radius: 4px;
+    -webkit-border: 4px;
+    color:#47433F;
+    text-align:center;
+}
+
+.textboxRed {
+    height: 20px;
+    width:130px;
+    border: solid 1px #E5E5E5;
+    outline: 0;
+    font: normal 15px 'Yanone Kaffeesatz';
+    background: #FF7F7F;
+    box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    border-radius:4px;
+    -moz-border-radius: 4px;
+    -webkit-border: 4px;
+    color:#47433F;
+    text-align:center;
+}
+
+.lista_aca{
+  width:140px;
+  text-align:right;
+  float:left;
+  margin:0;
+  margin-bottom:-10px;
+  padding:0;
+
+}
+
+ .textbox :focus {  
+    border-color: #C9C9C9;  
+    -webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px; 
+    } 
+
+
+ .HistoricoDiv{
+    margin-left:22%;
+    overflow:auto;
+    width:550px;
+    height:90px;
+    border: solid 1px #E5E5E5;
+    outline: 0;
+    font: normal 15px 'Yanone Kaffeesatz';
+    background: #FFF url('bg_form.png') left top repeat-x;
+    background: -webkit-gradient(linear, left top, left 25, from(#FFF), color-stop(4%, #EEE), to(#FFF));
+    background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);
+    box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    border-radius:4px;
+    -moz-border-radius: 4px;
+    -webkit-border: 4px;
+    color:#47433F;
+    text-align:center;
+    padding:10px;
+}
+
+ .HistoricoQuejas{
+
+     padding:15px;
+     margin-bottom:5px;
+     width:500px;
+     height:15px;
+     border: none;
+    font: normal 13px 'Yanone Kaffeesatz';
+    border-radius:4px;
+    -moz-border-radius: 4px;
+    -webkit-border: 4px;
+    color:#47433F;
+    text-align:left;   
+    background-color:rgba(168, 170, 148, 0.39);
+    resize: none;
+    overflow:auto;
+ }
+
+
+.Button{
+
+border-style:none;
+background-color:#545454;
+color:white;
+ border-radius:7px;
+-moz-border-radius: 7px;
+-webkit-border: 7px;
+
+}
+
+.Button a{
+    color:white;
+    text-decoration:none;
+    text-align:center;
+    vertical-align:middle;
+
+}
+
+.Boton {
+    font: normal 17px 'Yanone Kaffeesatz';
+    border-radius: 7px 7px 0px 0px;
+    -moz-border-radius: 7px 7px 0px 0px;
+    -webkit-border: 7px 7px 0px 0px;
+    border-width: 1.5px 1.5px 0 1.5px;
+    border-color: black;
+}
+
+.Panel{
+
+    font: normal 15px 'Yanone Kaffeesatz';
+    border-style:solid;
+    border-radius: 7px 7px 7px 7px;
+    -moz-border-radius: 7px 7px 7px 7px;
+    -webkit-border: 7px 7px 7px 7px;
+    border-width: 1.5px 1.5px 1.5px 1.5px;
+    border-color: black;
+    margin:20px;
+    padding-bottom:15px;
+
+}
+
+
+footer { 
+  width: 100%;
+  font-family: 'trebuchet ms', sans-serif;
+  font-size: 90%;
+  height: 60px;
+  padding: 20px 0 5px 0;
+  text-align: center; 
+  border-top: 1px solid #000;
+  background: #545454;
+  color: #A8AA94;
+  margin: 0 0 0 0;
+  text-transform: uppercase;
+}
+
+footer p { 
+  line-height: 1.7em;
+  padding: 0 0 10px 0;
+}
+
+footer a { 
+  color: #A8AA94;
+  text-decoration: none;
+}
+
+footer a:hover { 
+  color: #FFF;
+  text-decoration: none;
+}
+
+.form_settings { 
+  margin: 15px 0 0 0;
+}
+
+.form_settings p { 
+  padding: 0 0 4px 0;
+}
+
+.form_settings span { 
+  float: left; 
+  width: 200px; 
+  text-align: left;
+}
+  
+.form_settings input, .form_settings textarea { 
+  padding: 5px; 
+  width: 299px; 
+  font: 100% arial; 
+  border: 1px solid #E5E5DB; 
+  background: #FFF; 
+  color: #47433F;
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;  
+}
+  
+.form_settings .submit { 
+  font: 100% arial; 
+  border: 0; 
+  width: 99px; 
+  margin: 0 0 0 212px; 
+  height: 33px;
+  padding: 2px 0 3px 0;
+  cursor: pointer; 
+  background: #3B3B3B; 
+  color: #FFF;
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;  
+}
+
+.form_settings textarea, .form_settings select { 
+  font: 100% arial; 
+  width: 299px;
+}
+
+.form_settings select { 
+  width: 310px;
+}
+
+.form_settings .checkbox { 
+  margin: 4px 0; 
+  padding: 0; 
+  width: 14px;
+  border: 0;
+  background: none;
+}
+
+.separator { 
+  width: 100%;
+  height: 0;
+  border-top: 1px solid #D9D5CF;
+  border-bottom: 1px solid #FFF;
+  margin: 0 0 20px 0;
+}
+  
+
+.modal-tabla table {
+    width:450px;
+    height:60PX;
+}
+
+.modal-tabla table th{
+    background-color:#C00327;
+    color:white;
+    text-align:center;
+}
+
+.modal-tabla table tr{
+    text-align:left;
+
+}
+
+
+
+      
+#colours { 
+  float: right;
+  padding: 10px 0 0 0;
+}
+
+#search { 
+  float: right;
+}
+
+.search { 
+  border: 1px solid #666;
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;  
+  float:left;
+  margin:20px 0 0;
+  padding:5px;
+  vertical-align:middle;
+  width:192px;
+  color: #bbb;
+  background:#5E5E5E;
+}
+
+
+
+
+
+
+/**
+Stylesheet for SooperFish by www.SooperThemes.com
+Author: Jurriaan Roelofs
+*/
+
+/* Configuration of menu width */
+html body ul.sf-menu ul, html body ul.sf-menu ul li {
+  width: 180px;
+}
+
+html body ul.sf-menu ul ul {
+  margin: 0 0 0 180px;
+}
+
+/* Framework for proper showing/hiding/positioning */
+/* DO NOT EDIT FROM HERE */
+ul.sf-menu, ul.sf-menu * {
+  margin: 0;
+  padding: 0;
+}
+/**/
+ul.sf-menu {
+  display: block;
+  position: relative;
+}
+
+ul.sf-menu li {
+  display: block;
+  list-style: none;
+  float: left;
+  position: relative;
+}
+
+ul.sf-menu li:hover {
+  visibility: inherit; /* fixes IE7 'sticky bug' */
+}
+
+/**/
+ul.sf-menu a {
+  display: block;
+  position: relative;
+}
+
+ul.sf-menu ul {
+  position: absolute;
+  left: 0;
+  width: 150px; 
+  top: auto;
+  left: -999999px;
+}
+
+ul.sf-menu ul a {
+  zoom: 1; /* IE6/7 fix */
+}
+
+ul.sf-menu ul li {
+  float: left; /* Must always be floated otherwise there will be a rogue 1px margin-bottom in IE6/7 */
+  width: 150px;
+}
+
+ul.sf-menu ul ul {
+  top: 0;
+  margin: 0 0 0 150px
+}
+
+ul.sf-menu li:hover ul,ul.sf-menu li:focus ul,ul.sf-menu li.sf-hover ul,
+ul.sf-menu ul li:hover ul,ul.sf-menu ul li:focus ul,ul.sf-menu ul li.sf-hover ul,
+ul.sf-menu ul ul li:hover ul,ul.sf-menu ul ul li:focus ul,ul.sf-menu ul ul li.sf-hover ul,
+ul.sf-menu ul ul ul li:hover ul,ul.sf-menu ul ul ul li:focus ul,ul.sf-menu ul ul ul li.sf-hover ul {
+  left: auto;
+}
+
+ul.sf-menu li:hover ul ul,ul.sf-menu li:focus ul ul,ul.sf-menu li.sf-hover ul ul,
+ul.sf-menu ul li:hover ul ul,ul.sf-menu ul li:focus ul ul,ul.sf-menu ul li.sf-hover ul ul,
+ul.sf-menu ul ul li:hover ul ul,ul.sf-menu ul ul li:focus ul ul,ul.sf-menu ul ul li.sf-hover ul ul,
+ul.sf-menu ul ul ul li:hover ul ul,ul.sf-menu ul ul ul li:focus ul ul,ul.sf-menu ul ul ul li.sf-hover ul ul {
+  left: -999999px;
+}
+
+/* autoArrows CSS */
+span.sf-arrow {
+  width: 7px;
+  height: 7px;
+  position: absolute;
+  top: 8px;
+  right: 0;
+  display: block;
+  background: url(../images/images/arrows-black.png) no-repeat 0 0;
+  overflow: hidden; /* making sure IE6 doesn't overflow and expand the box */
+  font-size: 1px;
+}
+
+ul ul span.sf-arrow {
+  right: 12px;
+  top: 7px;
+  background-position: 0 100%;
+}
+
+/* Theming the menu */
+ul#nav {
+  float: left;
+}
+
+ul#nav li.current a {
+  color: #FFF;}
+
+ul#nav ul {
+  background: #C00327;
+}
+
+ul#nav li a {
+  padding: 7px 20px;
+  font-family: 'trebuchet ms',helvetica,arial,verdana,sans;
+  text-decoration: none;
+  color: #111;
+  background: #C00327;
+  margin-right: 2px;
+  border-radius: 7px 7px 0 0;
+  -moz-border-radius: 7px 7px 0 0;
+  -webkit-border: 7px 7px 0 0;}
+
+ul#nav li a:hover, ul#nav li a:focus {
+  color: #FFF;
+}
+
+ul#nav li ul li a {
+  margin-right: 0;
+  border-radius: 0 0 0 0;
+  -moz-border-radius: 0 0 0 0;
+  -webkit-border: 0 0 0 0;
+}
+
+span.sf-arrow {
+  top: 15px;
+  right: 5px;
+  background-image: url(../images/arrows-white.png);
+}
+
+ul ul span.sf-arrow {
+  right: 12px;
+  top: 15px;
+}
+
+
+
+.error{
+    background-color: #BC1010;
+    padding: 6px 12px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    margin-left: 16px;
+    margin-top: 6px;
+    position: absolute;
+}
+.error:before{ /* Este es un truco para crear una flechita */
+    content: '';
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid transparent;
+    border-right: 8px solid #BC1010;
+    border-left: 8px solid transparent;
+    left: -16px;
+    position: absolute;
+    top: 5px;
+}
